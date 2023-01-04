@@ -1,0 +1,107 @@
+---
+people:
+  - name: Craig
+    age: 78
+    job: Fisherman
+    interests:
+      [
+        "The sea",
+        "sea shanties",
+        "old treasure chests",
+        "wooden appendages",
+        "wooly turtlenecks",
+      ]
+    wants: ["to retire", "for it to be ok for a grown man to cry"]
+    location: Cornwall
+    favorite song: Nelsons Blood - Fisherman's Friends
+    favorite movie: Fisherman's Friends
+  - name: Belinda
+    age: 46
+    job: Regional Sales Manager
+    interests: ["steel pots", "steel pans", "Tombolas", "Grapefruits"]
+    wants:
+      [
+        "To climb to the top of the sales career",
+        "No one to find out that she's a super spy",
+      ]
+    location: London
+    favorite song: We're going to Ibiza - Vengaboys
+    favorite movie: The Spice girls movie
+  - name: Spambot
+    age: 21
+    job: Data Collection
+    interests: ["data", "credit cards", "personal details"]
+    wants: ["data", "credit cards", "personal details"]
+    location: Within 1 mile of your location
+    favorite song: Money - Pink Floyd
+    favorite movie: The wolf of wall street
+  - name: King Louie
+    age: unspecified
+    job: King
+    interests: ["Ancient ruins", "Swing music", "Power"]
+    wants: ["Man's red flower", "To become a man"]
+    location: Jungle
+    favorite song: King of the Swingers - King Louie
+    favorite movie: The Jungle Book
+  - name: Optimus
+    age: couple 1000 years
+    job: Protector
+    interests: ["big robots", "small robots", "Humans", "Lorries"]
+    wants:
+      [
+        "some kind of cube?",
+        "the love of the people",
+        "to end evil in the universe",
+      ]
+    location: A very large shed
+    favorite song: Roll On (Eighteen Wheeler) - Alabama
+    favorite movie: Convoy
+  - name: Edna
+    age: 50
+    job: Fashion designer
+    interests: ["fashion", "design", "superhero families"]
+    wants: ["absolutely no capes", "Privacy", "Thicker glasses"]
+    location: Italy
+    favorite song: sharp dressed man - ZZ Top
+    favorite movie: the devil wears prada
+  - name: Groot
+    age: 15
+    job: Groot
+    interests: ["Groot", "I am", "Groot"]
+    wants: ["Groot", "Groot", "Groot", "Groot"]
+    location: Groot
+    favorite song: Groot by Groot
+    favorite movie: Groot
+  - name: Katniss
+    age: 24
+    job: Volunteer
+    interests: ["Family", "Bows and Arrows", "Games"]
+    wants: ["No more districts", "Love"]
+    location: District 12
+    favorite song: The Archer - Taylor Swift
+    favorite movie: Robin hood
+  - name: Shaun
+    age: 38
+    job: Electronics Retail
+    interests: ["The Winchester", "zombie killing", "playstation games"]
+    wants:
+      ["to kill phil", "to watch it all blow over", "to not have a leaky pen"]
+    location: London
+    favorite song: White Lines - Melle Mel
+    favorite movie: World War Z
+  - name: Beatrix
+    age: 30
+    job: Assassin
+    interests: ["Killing Bill", "Katana swords"]
+    wants: ["to kil Bill", "Revenge"]
+    location: International
+    favorite song: Before he cheats - Carrie Underwood
+    favorite movie: Pulp Fiction
+  - name: Ron
+    age: 39
+    job: News Anchor
+    interests: ["Dogs", "Milk", "fitness", "News reporting"]
+    wants: ["Veronica to love him", "to be the best"]
+    location: Los Angeles
+    favorite song: Afternoon Delight - The Channel 4 News Team
+    favorite movie: Nightcrawler
