@@ -58,7 +58,7 @@ Create a script which reads the properties data and:
 
 4. Prints a list of all of the bungalows.
 
-5. Prints a dictionary which list lists the average property price for each property type. 
+5. Prints a dictionary which lists the average property price for each property type. 
 
 6. Add a new bungalow for sale to the properties data.
 
