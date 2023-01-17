@@ -45,6 +45,8 @@ Create a script which reads the cars data and:
 
 8. The Red Ford Tempo year was actually _1985_, please reflect this in the data.
 
+9. Create a new file, `cars.csv` by reading the json data and converting it into csv format.
+
 
 ## Properties XML
 
