@@ -24,7 +24,6 @@ Create a script which reads the pizza data and:
 
 8. Add a new header to indicate whether the pizza is suitable for vegetarians, then fill in the information for each pizza.
 
-
 ## Cars JSON
 
 Create a script which reads the cars data and:
@@ -47,7 +46,6 @@ Create a script which reads the cars data and:
 
 9. Create a new file, `cars.csv` by reading the json data and converting it into csv format.
 
-
 ## Properties XML
 
 Create a script which reads the properties data and:
@@ -60,14 +58,13 @@ Create a script which reads the properties data and:
 
 4. Prints a list of all of the bungalows.
 
-5. Prints a dictionary which lists the average property price for each property type. 
+5. Prints a dictionary which lists the average property price for each property type.
 
 6. Add a new bungalow for sale to the properties data.
 
 7. Renting has just become even more unaffordable, increase all properties to rent by _5%_.
 
 8. There is a new `PARK HOME` property type available to rent. This home has 2 bedrooms and cost £2000, update the data to reflect this.
-
 
 ## People YAML
 
@@ -88,3 +85,19 @@ Create a script which reads the people data and:
 7. Add a `favourite colour` key to each person.
 
 8. Find everyone who lives in `London` and change it to `The City`.
+
+## Extension task Pandas
+
+Pandas is an open source Python package that is most widely used for data science,data analysis and machine learning tasks.
+
+It is something that we'll cover in more depth later in the course but it's good to know whats around the corner!
+
+For this task you will need to research and play around with Pandas.
+
+## _Helpful links_
+
+[Pandas Docs](https://pandas.pydata.org/docs/)
+
+[Learn Pandas](https://www.learnpython.org/en/Pandas_Basics)
+
+[w3schools](https://www.w3schools.com/python/pandas/default.asp)
