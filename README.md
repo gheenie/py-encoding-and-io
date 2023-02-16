@@ -1,6 +1,6 @@
 # Encoding and IO
 
-Interacting and manipulating different file types is an important skill for any Data Engineer. These tasks should provoke you to investigate the `built in modules` available in python and experiment with the different methods they offer.
+Interacting and manipulating different file types is an important skill for any Data Engineer. These tasks should provoke you to investigate the **built in modules** available in python and experiment with the different methods they offer.
 
 All data files can be found in the `data` directory.
 
