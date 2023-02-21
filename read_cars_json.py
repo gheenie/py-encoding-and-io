@@ -60,7 +60,7 @@ for car in cars:
 
 with open('data/cars.csv', 'w', newline='') as file:
     csv_columns = cars[0].keys()
-    print(csv_columns)
+    
     writer = csv.DictWriter(file, fieldnames=csv_columns)
 
     writer.writeheader()
